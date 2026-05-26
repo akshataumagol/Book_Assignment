@@ -1,6 +1,6 @@
 <?php
 /**
- * Template: Single Book
+ * Template: Single Book Page
 
  */
 
