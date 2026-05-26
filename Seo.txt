@@ -1,0 +1,76 @@
+Q1.Identify 5 high-intent keywords Bacardi should target
+
+"easy Bacardi rum cocktails at home"
+"best rum cocktail recipes for beginners"
+"how to make Bacardi mojito at home"
+"simple rum drinks for house party"
+"Bacardi cocktail recipes step by step"
+"home mixology guide with rum"
+
+
+-------------------********---------------------------
+Q1.2. Recommend on-page SEO fixes (content structure, metadata, internal linking)
+
+We can add short cocktail-making videos or tutorials.
+
+---------------***********-----------------------------
+
+
+
+Q2.Identify 3 potential UX issues causing high bounce rates and suggest solutions
+
+1. No Search  Option
+Problem:
+Users cannot quickly find cocktail recipes
+
+2.No Filter Option on Recipe Page
+If a user wants to find a cocktail recipe by ingredient like 
+"lemon" or by difficulty like "beginner" but there is no filter option they have to manually scroll through all recipes on mobile
+
+3.No Print or Save Recipe Option People who cook or make drinks at home want to 
+save or print the recipe. If there is no easy save or bookmark option they leave to find the recipe somewhere else where they can save it easily.
+
+
+
+---------------------**************----------------------
+
+
+
+Q3. Recommend 3 tactics to improve visibility for Bacardi-sponsored events &
+bars in key metro cities
+
+1. Create City-Based Event Pages
+
+Make separate pages for each city event like:
+
+“Bacardi Cocktail Event Mumbai”
+“Bacardi Night Party Delhi”
+
+This improves rankings for local searches in metro cities.
+
+2. Add Customer Reviews on Website
+
+Show reviews like:
+
+“Amazing Bacardi party experience”
+“Best cocktail event in Mumbai”
+
+User-generated content improves trust and local SEO.
+
+3. Add Local Keywords in Website Content
+
+Use city names in:
+
+Page titles
+Meta descriptions
+Headings
+Blog content
+
+Example:
+
+“Top Cocktail Events in Mumbai”
+“Best Rum Drinks in Bangalore”
+
+This improves local SEO rankings.
+
+
