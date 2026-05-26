@@ -19,9 +19,7 @@ We can add short cocktail-making videos or tutorials.
 
 Q2.Identify 3 potential UX issues causing high bounce rates and suggest solutions
 
-1. No Search  Option
-Problem:
-Users cannot quickly find cocktail recipes
+1. No Search  Option Problem: Users cannot quickly find cocktail recipes
 
 2.No Filter Option on Recipe Page
 If a user wants to find a cocktail recipe by ingredient like 
