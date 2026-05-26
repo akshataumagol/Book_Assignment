@@ -8,12 +8,12 @@ A simple WordPress plugin to manage and display a collection of books. Only logg
 
 ```
 books-manager/
-├── books-manager.php        ← Main plugin file
+├── books-manager.php       
 ├── templates/
-│   └── single-books.php     ← Single book page template
+│   └── single-books.php    
 ├── assets/
 │   └── css/
-│       └── style.css        ← CSS styling file
+│       └── style.css        
 └── README.md
 ```
 
